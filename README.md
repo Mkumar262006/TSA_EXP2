@@ -1,5 +1,5 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-# GEG NO:212223240082
+# REG NO:212223240082
 # Date: 11-05-2026
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
